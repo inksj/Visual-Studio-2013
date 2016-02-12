@@ -1,0 +1,12 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\Challenge7\Challenge7\bin\Debug\Challenge7.exe.config
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge7\Challenge7\bin\Debug\Challenge7.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge7\Challenge7\bin\Debug\Challenge7.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge7\Challenge7\obj\Debug\Challenge7.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge7\Challenge7\obj\Debug\Challenge7.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge7\Challenge7\obj\Debug\Challenge7.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Challenge7\Challenge7\bin\Debug\Challenge7.exe.config
+E:\Visual Studio 2013\Projects\Challenge7\Challenge7\obj\Debug\Challenge7.exe
+E:\Visual Studio 2013\Projects\Challenge7\Challenge7\obj\Debug\Challenge7.pdb
+E:\Visual Studio 2013\Projects\Challenge7\Challenge7\bin\Debug\Challenge7.exe
+E:\Visual Studio 2013\Projects\Challenge7\Challenge7\bin\Debug\Challenge7.pdb
+E:\Visual Studio 2013\Projects\Challenge7\Challenge7\obj\Debug\Challenge7.csprojResolveAssemblyReference.cache

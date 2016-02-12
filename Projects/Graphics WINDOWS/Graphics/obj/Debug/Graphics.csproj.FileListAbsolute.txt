@@ -1,0 +1,5 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\Graphics\Graphics\bin\Debug\Graphics.exe.config
+c:\users\hylanduser\documents\visual studio 2013\Projects\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+c:\users\hylanduser\documents\visual studio 2013\Projects\Graphics\Graphics\obj\Debug\Graphics.Form1.resources
+c:\users\hylanduser\documents\visual studio 2013\Projects\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+c:\users\hylanduser\documents\visual studio 2013\Projects\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\ProgramC1\ProgramC1\bin\Debug\ProgramC1.exe.config
+c:\users\hylanduser\documents\visual studio 2013\Projects\ProgramC1\ProgramC1\bin\Debug\ProgramC1.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\ProgramC1\ProgramC1\bin\Debug\ProgramC1.pdb
+c:\users\hylanduser\documents\visual studio 2013\Projects\ProgramC1\ProgramC1\obj\Debug\ProgramC1.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\ProgramC1\ProgramC1\obj\Debug\ProgramC1.pdb
+E:\Visual Studio 2013\Projects\ProgramC1\ProgramC1\bin\Debug\ProgramC1.exe.config
+E:\Visual Studio 2013\Projects\ProgramC1\ProgramC1\obj\Debug\ProgramC1.exe
+E:\Visual Studio 2013\Projects\ProgramC1\ProgramC1\obj\Debug\ProgramC1.pdb
+E:\Visual Studio 2013\Projects\ProgramC1\ProgramC1\bin\Debug\ProgramC1.exe
+E:\Visual Studio 2013\Projects\ProgramC1\ProgramC1\bin\Debug\ProgramC1.pdb
+E:\Visual Studio 2013\Projects\ProgramC1\ProgramC1\obj\Debug\ProgramC1.csprojResolveAssemblyReference.cache

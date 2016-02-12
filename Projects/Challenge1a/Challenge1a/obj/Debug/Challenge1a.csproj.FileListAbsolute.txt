@@ -1,0 +1,5 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\Challenge1a\Challenge1a\bin\Debug\Challenge1a.exe.config
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge1a\Challenge1a\bin\Debug\Challenge1a.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge1a\Challenge1a\bin\Debug\Challenge1a.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge1a\Challenge1a\obj\Debug\Challenge1a.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge1a\Challenge1a\obj\Debug\Challenge1a.pdb

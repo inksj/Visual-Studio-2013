@@ -1,0 +1,5 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\Condition\Condition\bin\Debug\Condition.exe.config
+c:\users\hylanduser\documents\visual studio 2013\Projects\Condition\Condition\bin\Debug\Condition.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\Condition\Condition\bin\Debug\Condition.pdb
+c:\users\hylanduser\documents\visual studio 2013\Projects\Condition\Condition\obj\Debug\Condition.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\Condition\Condition\obj\Debug\Condition.pdb

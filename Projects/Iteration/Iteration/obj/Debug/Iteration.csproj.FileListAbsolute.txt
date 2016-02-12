@@ -1,0 +1,6 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Iteration\Iteration\obj\Debug\Iteration.csprojResolveAssemblyReference.cache
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Iteration\Iteration\obj\Debug\Iteration.pdb

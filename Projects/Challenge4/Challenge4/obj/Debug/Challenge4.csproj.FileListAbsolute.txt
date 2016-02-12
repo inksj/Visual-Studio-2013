@@ -1,0 +1,5 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\Challenge4\Challenge4\bin\Debug\Challenge4.exe.config
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge4\Challenge4\bin\Debug\Challenge4.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge4\Challenge4\bin\Debug\Challenge4.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge4\Challenge4\obj\Debug\Challenge4.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge4\Challenge4\obj\Debug\Challenge4.pdb

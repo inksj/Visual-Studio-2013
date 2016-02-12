@@ -1,0 +1,6 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\LAb2\LAb2\bin\Debug\LAb2.exe.config
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\LAb2\LAb2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\LAb2\LAb2\bin\Debug\LAb2.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\LAb2\LAb2\bin\Debug\LAb2.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\LAb2\LAb2\obj\Debug\LAb2.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\LAb2\LAb2\obj\Debug\LAb2.pdb

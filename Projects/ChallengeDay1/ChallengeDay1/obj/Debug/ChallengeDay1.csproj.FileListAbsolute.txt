@@ -1,0 +1,6 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\ChallengeDay1\ChallengeDay1\bin\Debug\ChallengeDay1.exe.config
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\ChallengeDay1\ChallengeDay1\obj\Debug\ChallengeDay1.csprojResolveAssemblyReference.cache
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\ChallengeDay1\ChallengeDay1\bin\Debug\ChallengeDay1.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\ChallengeDay1\ChallengeDay1\bin\Debug\ChallengeDay1.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\ChallengeDay1\ChallengeDay1\obj\Debug\ChallengeDay1.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\ChallengeDay1\ChallengeDay1\obj\Debug\ChallengeDay1.pdb

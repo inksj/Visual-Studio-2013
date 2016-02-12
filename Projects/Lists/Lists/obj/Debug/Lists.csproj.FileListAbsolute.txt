@@ -1,0 +1,5 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\Lists\Lists\bin\Debug\Lists.exe.config
+c:\users\hylanduser\documents\visual studio 2013\Projects\Lists\Lists\bin\Debug\Lists.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\Lists\Lists\bin\Debug\Lists.pdb
+c:\users\hylanduser\documents\visual studio 2013\Projects\Lists\Lists\obj\Debug\Lists.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\Lists\Lists\obj\Debug\Lists.pdb

@@ -1,0 +1,6 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\Day3Lab3\Day3Lab3\bin\Debug\Day3Lab3.exe.config
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Day3Lab3\Day3Lab3\obj\Debug\Day3Lab3.csprojResolveAssemblyReference.cache
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Day3Lab3\Day3Lab3\bin\Debug\Day3Lab3.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Day3Lab3\Day3Lab3\bin\Debug\Day3Lab3.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Day3Lab3\Day3Lab3\obj\Debug\Day3Lab3.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Day3Lab3\Day3Lab3\obj\Debug\Day3Lab3.pdb

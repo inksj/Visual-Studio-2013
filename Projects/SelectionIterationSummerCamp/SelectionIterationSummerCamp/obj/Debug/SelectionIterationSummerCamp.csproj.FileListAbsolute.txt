@@ -1,0 +1,5 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\SelectionIterationSummerCamp\SelectionIterationSummerCamp\bin\Debug\SelectionIterationSummerCamp.exe.config
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\SelectionIterationSummerCamp\SelectionIterationSummerCamp\bin\Debug\SelectionIterationSummerCamp.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\SelectionIterationSummerCamp\SelectionIterationSummerCamp\bin\Debug\SelectionIterationSummerCamp.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\SelectionIterationSummerCamp\SelectionIterationSummerCamp\obj\Debug\SelectionIterationSummerCamp.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\SelectionIterationSummerCamp\SelectionIterationSummerCamp\obj\Debug\SelectionIterationSummerCamp.pdb

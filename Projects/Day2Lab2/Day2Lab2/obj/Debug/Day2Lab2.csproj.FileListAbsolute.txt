@@ -1,0 +1,12 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\Day2Lab2\Day2Lab2\bin\Debug\Day2Lab2.exe.config
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\obj\Debug\Day2Lab2.csprojResolveAssemblyReference.cache
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\bin\Debug\Day2Lab2.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\bin\Debug\Day2Lab2.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\obj\Debug\Day2Lab2.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\obj\Debug\Day2Lab2.pdb
+E:\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\bin\Debug\Day2Lab2.exe.config
+E:\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\obj\Debug\Day2Lab2.exe
+E:\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\obj\Debug\Day2Lab2.pdb
+E:\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\bin\Debug\Day2Lab2.exe
+E:\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\bin\Debug\Day2Lab2.pdb
+E:\Visual Studio 2013\Projects\Day2Lab2\Day2Lab2\obj\Debug\Day2Lab2.csprojResolveAssemblyReference.cache

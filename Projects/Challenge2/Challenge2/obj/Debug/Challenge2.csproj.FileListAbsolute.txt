@@ -1,0 +1,5 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\Challenge2\Challenge2\bin\Debug\Challenge2.exe.config
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge2\Challenge2\bin\Debug\Challenge2.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge2\Challenge2\bin\Debug\Challenge2.pdb
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge2\Challenge2\obj\Debug\Challenge2.exe
+C:\Users\hylanduser\Documents\Visual Studio 2013\Projects\Challenge2\Challenge2\obj\Debug\Challenge2.pdb

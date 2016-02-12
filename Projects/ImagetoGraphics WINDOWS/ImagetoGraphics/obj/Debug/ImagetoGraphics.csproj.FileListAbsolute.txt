@@ -1,0 +1,12 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\ImagetoGraphics\ImagetoGraphics\bin\Debug\ImagetoGraphics.exe.config
+c:\users\hylanduser\documents\visual studio 2013\Projects\ImagetoGraphics\ImagetoGraphics\bin\Debug\ImagetoGraphics.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\ImagetoGraphics\ImagetoGraphics\bin\Debug\ImagetoGraphics.pdb
+c:\users\hylanduser\documents\visual studio 2013\Projects\ImagetoGraphics\ImagetoGraphics\obj\Debug\ImagetoGraphics.csprojResolveAssemblyReference.cache
+c:\users\hylanduser\documents\visual studio 2013\Projects\ImagetoGraphics\ImagetoGraphics\obj\Debug\ImagetoGraphics.Form1.resources
+c:\users\hylanduser\documents\visual studio 2013\Projects\ImagetoGraphics\ImagetoGraphics\obj\Debug\ImagetoGraphics.Properties.Resources.resources
+c:\users\hylanduser\documents\visual studio 2013\Projects\ImagetoGraphics\ImagetoGraphics\obj\Debug\ImagetoGraphics.csproj.GenerateResource.Cache
+c:\users\hylanduser\documents\visual studio 2013\Projects\ImagetoGraphics\ImagetoGraphics\obj\Debug\ImagetoGraphics.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\ImagetoGraphics\ImagetoGraphics\obj\Debug\ImagetoGraphics.pdb
+E:\Visual Studio 2013\Projects\ImagetoGraphics WINDOWS\ImagetoGraphics\bin\Debug\ImagetoGraphics.exe.config
+E:\Visual Studio 2013\Projects\ImagetoGraphics WINDOWS\ImagetoGraphics\obj\Debug\ImagetoGraphics.exe
+E:\Visual Studio 2013\Projects\ImagetoGraphics WINDOWS\ImagetoGraphics\obj\Debug\ImagetoGraphics.pdb

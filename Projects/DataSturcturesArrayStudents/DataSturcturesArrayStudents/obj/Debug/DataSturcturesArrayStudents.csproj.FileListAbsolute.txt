@@ -1,0 +1,5 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\DataSturcturesArrayStudents\DataSturcturesArrayStudents\bin\Debug\DataSturcturesArrayStudents.exe.config
+c:\users\hylanduser\documents\visual studio 2013\Projects\DataSturcturesArrayStudents\DataSturcturesArrayStudents\bin\Debug\DataSturcturesArrayStudents.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\DataSturcturesArrayStudents\DataSturcturesArrayStudents\bin\Debug\DataSturcturesArrayStudents.pdb
+c:\users\hylanduser\documents\visual studio 2013\Projects\DataSturcturesArrayStudents\DataSturcturesArrayStudents\obj\Debug\DataSturcturesArrayStudents.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\DataSturcturesArrayStudents\DataSturcturesArrayStudents\obj\Debug\DataSturcturesArrayStudents.pdb

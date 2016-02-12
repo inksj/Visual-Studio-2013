@@ -1,0 +1,6 @@
+c:\users\hylanduser\documents\visual studio 2013\Projects\functions\functions\bin\Debug\functions.exe.config
+c:\users\hylanduser\documents\visual studio 2013\Projects\functions\functions\bin\Debug\functions.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\functions\functions\bin\Debug\functions.pdb
+c:\users\hylanduser\documents\visual studio 2013\Projects\functions\functions\obj\Debug\functions.csprojResolveAssemblyReference.cache
+c:\users\hylanduser\documents\visual studio 2013\Projects\functions\functions\obj\Debug\functions.exe
+c:\users\hylanduser\documents\visual studio 2013\Projects\functions\functions\obj\Debug\functions.pdb
